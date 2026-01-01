@@ -12,10 +12,10 @@ useHead({
         <h1>Delegate Resouces</h1>
         <div class="bg">
             <div class="bg-link bg-matrix">
-                <a href="#">
+                <a href="https://docs.google.com/spreadsheets/d/1I5u6BewbOu_GgSnGQVw_3Fj5Duc6jdyUcgKa9u1-hlM/edit?usp=sharing">
                     <h1>Country Matrix</h1>      
                 </a>
-                <p class="coming-soon">Coming Soon</p>
+    
             </div>
 
             <div class="bg-link bg-code"> 
